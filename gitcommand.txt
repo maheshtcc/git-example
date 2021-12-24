@@ -1,0 +1,9 @@
+git checkout filename
+git checkout -f    "all file recovered to last commits"
+git log "display all commt log"
+git log -p -1 "display indivisual commit"
+git diff "compairing staging area to working area"
+git branch branchname "create new branch"
+git checkout branchname "switch to branch"
+git remote --v "check 
+git remote add origin https://github.com/maheshtcc/git-example.git
